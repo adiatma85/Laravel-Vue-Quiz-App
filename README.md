@@ -5,8 +5,7 @@
 ## Installation
 
 1) `git init`
-2)  `git remote add origin git@github.com:h4yfans/Laravel-Vue-Quiz-App.git`
-3)  `git pull origin master`
+2)  'git clone'
 4)  create an `.env` file
 5)  run `composer update`
 6)  run `php artisan db:seed`
